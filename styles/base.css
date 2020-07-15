@@ -74,7 +74,7 @@ iframe {
 .banner {
  min-height: 25v;
   padding: 6rem 1rem;
-   background-image: url('styles/IMG_4831.JPG');
+   background-image: url('IMG_4831.JPG');
   backround-position: center;
   backround-fit: cover;
 }
