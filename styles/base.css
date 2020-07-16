@@ -74,11 +74,20 @@ iframe {
 .banner {
  min-height: 25v;
   padding: 6rem 1rem;
-   background-image: url('IMG_4831.JPG');
+   background-image: url('styles/IMG_4831.JPG');
   backround-position: center;
   backround-fit: cover;
 }
-    
+ .banner-tag {
+   display: inline-block;
+   margin: auto;
+   padding: 7rem;
+   width: auto;
+   text-align: left;
+   color: black;
+     border: 10px dotted;
+   font-size: 3.
+}
 .profile-ing {
  max-height: 50vh;
   width: auto;
